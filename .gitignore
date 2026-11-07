@@ -1,0 +1,15 @@
+# Editor y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dependencias y compilación
+node_modules/
+dist/
+build/
+
+# Configuración privada
+.env
+.env.*
+!.env.example
